@@ -1,0 +1,5 @@
+{
+  "name": "SellerAI Tools - Amazon Listing Optimizer",
+  "description": "Professional AI-powered tool for Amazon sellers to generate optimized titles, FABE bullet points, and compliant search terms using Gemini Pro. Features include keyword density analysis, CSV exports, and Stripe-ready payment walls.",
+  "requestFramePermissions": []
+}
